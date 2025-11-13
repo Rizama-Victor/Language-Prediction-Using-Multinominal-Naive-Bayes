@@ -88,7 +88,7 @@ This project focused on building a model using multinominal naive bias machine l
 ---
 ## ⚠️ Disclaimer
 
-While the evaluation metrics confirm exceptional model performance, the consistency and magnitude of these results suggest potential **overfitting** meaning the model might perform less effectively on unseen data. Future work could focus on testing the model using **real-world multilingual datasets** to validate its generalization ability, or explore **more advanced approaches such as transformer-based models or Large Language Models (LLMs)** to improve adaptability and contextual understanding in language prediction tasks.
+While the evaluation metrics indicate exceptional model performance, the consistency and magnitude of these results suggest potential **overfitting** meaning the model might perform less effectively on unseen data. Future work could focus on testing the model using **real-world multilingual datasets** to validate its generalization ability, or explore **more advanced approaches such as transformer-based models or Large Language Models (LLMs)** to improve adaptability and contextual understanding in language prediction tasks.
 
 ---
 
