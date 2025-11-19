@@ -22,7 +22,7 @@ This project focused on building a model using multinominal naive bias machine l
 | **Python** | Served as the main programming language for implementing the language prediction model and data analysis. |
 | **Pandas** | Used for loading, cleaning, and manipulating the dataset. |
 | **NumPy** | Assisted with numerical operations and array handling. |
-| **Scikit-learn (sklearn)** | Provided various machine learning utilities including model training, evaluation metrics, and data preprocessing. |
+| **Scikit-learn** | Provided various machine learning utilities including model training, evaluation metrics, and data preprocessing. |
 | **TfidfVectorizer** | Used for converting text data into numerical vector representations suitable for model training. |
 | **LabelEncoder** | Applied to encode categorical language labels into numerical form. |
 | **Train-Test Split** | Used to divide the dataset into training and testing subsets for performance evaluation. |
